@@ -28,6 +28,8 @@ Learning GitHub, VirtualBox, Grok Bot, and MATLAB/Simulink.
 - Commits save changes with messages
 - Push uploads changes to the cloud
 - Branches let you work safely
+- ### Branch Practice
+I created a separate branch to test changes safely.
 - `virtualbox-notes/` - VirtualBox setup notes
 - `grok-bot-notes/` - AI chatbot experiments
 - `matlab-notes/` - MATLAB and Simulink notes
