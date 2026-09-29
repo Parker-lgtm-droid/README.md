@@ -49,6 +49,24 @@ Review changes
     ↓
 Merge into main
 - `virtualbox-notes/` - VirtualBox setup notes
+- ### Termux Learning
+
+Started learning Termux on Android phone.
+
+#### Commands Learned
+- pwd (print working directory)
+- ls (list files)
+- cd (change directory)
+- mkdir (make directory)
+- nano (text editor)
+- cat (read file)
+- echo (print text)
+
+#### First Practice
+Created a folder called "learning" and made a notes.txt file inside it.
+
+#### Key Insight
+Termux gives me a Linux terminal right on my Android phone!
 - `grok-bot-notes/` - AI chatbot experiments
 - `matlab-notes/` - MATLAB and Simulink notes
 
