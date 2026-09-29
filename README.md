@@ -1,2 +1,1 @@
-# README.md
-Research notes 
+An initial project README
