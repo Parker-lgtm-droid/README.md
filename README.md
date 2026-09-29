@@ -22,6 +22,12 @@ Learning GitHub, VirtualBox, Grok Bot, and MATLAB/Simulink.
 ## Folders
 
 - `github-notes/` - GitHub learning notes
+- "## Notes"
+- ### What I Learned Today
+- GitHub stores projects in repositories
+- Commits save changes with messages
+- Push uploads changes to the cloud
+- Branches let you work safely
 - `virtualbox-notes/` - VirtualBox setup notes
 - `grok-bot-notes/` - AI chatbot experiments
 - `matlab-notes/` - MATLAB and Simulink notes
