@@ -30,6 +30,17 @@ Learning GitHub, VirtualBox, Grok Bot, and MATLAB/Simulink.
 - Branches let you work safely
 - ### Branch Practice
 I created a separate branch to test changes safely.
+Create branch
+    ↓
+Edit files
+    ↓
+Commit changes
+    ↓
+Open pull request
+    ↓
+Review changes
+    ↓
+Merge into main
 - `virtualbox-notes/` - VirtualBox setup notes
 - `grok-bot-notes/` - AI chatbot experiments
 - `matlab-notes/` - MATLAB and Simulink notes
