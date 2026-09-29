@@ -24,6 +24,13 @@ Learning GitHub, VirtualBox, Grok Bot, and MATLAB/Simulink.
 - `github-notes/` - GitHub learning notes
 - "## Notes"
 - ### What I Learned Today
+- ### Learning Summary
+- I created a repo
+- I learned how to edit files
+- I learned how to commit changes
+- I learned how to create a branch
+- I learned how to open a pull request
+- I learned how to merge changes
 - GitHub stores projects in repositories
 - Commits save changes with messages
 - Push uploads changes to the cloud
