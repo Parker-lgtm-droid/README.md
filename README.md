@@ -68,6 +68,10 @@ Created a folder called "learning" and made a notes.txt file inside it.
 #### Key Insight
 Termux gives me a Linux terminal right on my Android phone!
 - `grok-bot-notes/` - AI chatbot experiments
+- ### Advanced Grok Usage
+- Using Grok for debugging
+- Getting code explanations
+- Learning new libraries
 - `matlab-notes/` - MATLAB and Simulink notes
 
 ## Current Focus
