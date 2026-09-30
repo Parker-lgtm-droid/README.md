@@ -73,11 +73,8 @@ Termux gives me a Linux terminal right on my Android phone!
 - Getting code explanations
 - Learning new libraries
 - `matlab-notes/` - MATLAB and Simulink notes
-
-## Current Focus
-
-Learning GitHub basics and version control.
-
+## Learning goal
+Explore MATLAB for technical computing and Simulink for modeling and simulation
 ---
 
 Last Updated: 2026-09-28
