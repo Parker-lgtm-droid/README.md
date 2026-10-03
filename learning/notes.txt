@@ -1,0 +1,15 @@
+# Learning Practice
+
+Created a folder called "learning" and added this notes file.
+
+## Basic Linux Commands Learned
+- pwd
+- ls
+- cd
+- mkdir
+- nano
+- cat
+- echo
+
+## Key Insight
+Termux gives me a Linux terminal on my Android device, which makes it easy to practice command-line skills anywhere.
